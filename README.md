@@ -1,6 +1,6 @@
 # 📜 Robin Jimmichan Pooppally – Certifications
 
-This repository showcases all professional certifications completed by Robin Jimmichan P in **Business Analytics, Data Analysis, AI, and Programming**. Each certificate includes a brief description of skills learned, credential ID, and an image for easy viewing.
+This repository showcases all professional certifications completed by Robin Jimmichan Pooppally in **Business Analytics, Data Analysis, AI, and Programming**. Each certificate includes a brief description of skills learned, credential ID, and an image for easy viewing.
 
 ---
 
